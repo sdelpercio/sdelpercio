@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Cupcake Clicker](https://github.com/sdelpercio/cupcake-clicker)
 
-- 👨‍💻 All of my projects are available at [https://www.shawndelperc.io](https://www.shawndelperc.io)
+- 👨‍💻 My favorite projects are available at [https://www.shawndelperc.io](https://www.shawndelperc.io)
 
 - 💬 Ask me about my experience at Lambda School!
 
