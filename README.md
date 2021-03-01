@@ -2,7 +2,7 @@
 <h3 align="center">I am a Full Stack Web Developer with a passion for solving problems!</h3>
 <br><br>
 
-- 🔭 I’m currently working on [Cupcake Clicker](https://github.com/sdelpercio/cupcake-clicker)
+- 🔭 I’m currently working on [Netflix Match](https://github.com/sdelpercio/netflix-match)
 
 - 👨‍💻 My favorite projects are available at [https://www.shawndelperc.io](https://www.shawndelperc.io)
 
